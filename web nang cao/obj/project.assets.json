@@ -9855,11 +9855,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\web nang cao\\web nang cao\\web nang cao.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\nang cao 2710\\web nang cao\\web nang cao.csproj",
       "projectName": "web nang cao",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\web nang cao\\web nang cao\\web nang cao.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\nang cao 2710\\web nang cao\\web nang cao.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\web nang cao\\web nang cao\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\nang cao 2710\\web nang cao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
